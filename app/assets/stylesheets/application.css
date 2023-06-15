@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+ .tarjetas {
+
+    display: inline-flex;
+ }
+
+ .tarjetas img{
+    height: 250px;
+    width: 285px;
+    object-fit: cover;
+    
+    text-align: center;
+ }
+
+ .btn {
+color: aqua;
+background-color: blueviolet;
+
+ }
